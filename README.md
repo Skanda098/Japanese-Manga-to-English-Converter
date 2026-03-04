@@ -29,7 +29,7 @@ exit
 
 Cmd (run as administrator) --> then type the following commands <br>
 ```
-cd Japanese-Manga-to-English-Converter<br>
+cd Japanese-Manga-to-English-Converter
 
 venv\Scripts\activate
 ```
