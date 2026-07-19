@@ -1,9 +1,12 @@
 <h1>Japanese Manga to English Converter</h1>
 
 <b><h2> Requirements : (Works best with the following versions)</h2></b>
-Microsoft C++ Build Tools - MSBuild version 18.3.0-release-26070-10+3972042b7 for .NET Framework  <a href="https://visualstudio.microsoft.com/downloads/?q=build+tools"> Download </a> <br>
-Python 3.11.7 <a href="https://www.python.org/ftp/python/3.11.7/python-3.11.7-amd64.exe">Download</a> <br>
-rustc 1.93.1  <a href="https://win.rustup.rs/x86_64">Download</a> <br><br>
+<a href="https://visualstudio.microsoft.com/downloads/?q=build+tools">
+Microsoft C++ Build Tools - MSBuild version 18.3.0-release-26070-10+3972042b7 for .NET Framework  </a> <br>
+<a href="https://www.python.org/ftp/python/3.11.7/python-3.11.7-amd64.exe">
+Python 3.11.7 </a> <br>
+  <a href="https://win.rustup.rs/x86_64">
+rustc 1.93.1</a> <br><br>
 <b><h3>❗️ Python Should be of 3.11 version because of modification of some of the libraries of numpy in the latest version of python ❗️</h3></b><br>
 
 <h2>Process : <b>(For First Time)</b><br></h2>
